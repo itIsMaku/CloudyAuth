@@ -1,0 +1,13 @@
+main: net.cloudy.auth.App
+name: CloudyAuth
+version: 1.0
+author: itIsMaku
+description: Auth system for Cloudy Network
+commands:
+  login:
+    aliases:
+      - l
+  register:
+    aliases:
+      - reg
+      - rg
